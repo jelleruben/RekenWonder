@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>BTW Prijs</title>
+    
+    <link rel="stylesheet" href="../css/style.css">
+    <meta charset="UTF-8">
+
+  </head>
+  <body>
+      <button id="menu" onclick="window.location.href = '../index.html';">Terug</button> 
+        
+    <h1>BTW prijs berekenen</h1>
+
+    <div>
+        <input type="number" name="getal" id="number" placeholder="Vul het excl. bedrag in"><br><br>
+        BTW tarief:   
+        <select name="btw" id="btw">
+           <option value="6">6%</option>  
+           <option value="9">9%</option>
+           <option value="19">19%</option>
+           <option value="21">21%</option>
+            
+          </select>
+    <br><br>
+      <button id="btn" onclick="btw()">Bereken BTW</button>
+      <button id="btnreset" onclick="resetbtw()">Reset</button>
+    </div>
+    <br>
+    <div id="uitkomst">	
+
+    </div>
+
+    <script type="text/javascript" src="script.js">
+        </script>
+    <footer>
+        Het RekenWonder 2019
+ </footer>
+    </body>
+</html> 
