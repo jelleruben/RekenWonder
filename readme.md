@@ -5,3 +5,7 @@ Daarnaast heb je ook de mogelijkheid om iets geavanceede berekeningen te doen, u
 inslag van een bliksem of het tellen van muntgeld.
 
 Deze webapp is gerealiceerd met HTML5, CSS3 & Javascript.
+
+De RekenWonder kunt u live zien op:
+
+<a href="http://nas.jrstudios.nl/rekenwonder/">De RekenWonder</a>
