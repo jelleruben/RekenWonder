@@ -8,7 +8,7 @@ Deze webapp is gerealiceerd met HTML5, CSS3 & Javascript.
 
 Het RekenWonder kunt u live zien op:
 
-![Alt text](/screenshot.png?raw=true "preview")
+
 
 <a href="https://jelleruben.github.io/reken_wonder/">Het RekenWonder</a>
 
